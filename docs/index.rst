@@ -7,7 +7,7 @@ Langkah-langkah
 Membuka Rekening Sekuritas:
 
 1. Pilih perusahaan sekuritas yang terdaftar di OJK.
-2. Buka website atau [aplikasi sekuritas](https://navi.id) pilihan Anda.
+2. Buka website atau `aplikasi sekuritas <https://navi.id>`_ pilihan Anda.
 3. Isi formulir pembukaan akun online atau kunjungi kantor cabang sekuritas.
 4. Siapkan dokumen yang diperlukan (KTP, NPWP, foto selfie, dll.).
 5. Setor dana awal ke rekening sekuritas Anda.
